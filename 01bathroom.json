@@ -6556,7 +6556,7 @@
         {
          "columns":43,
          "firstgid":1615,
-         "image":"..\/..\/Edited\/03 lift.png",
+         "image":"\/Edited\/03 lift.png",
          "imageheight":928,
          "imagewidth":1392,
          "margin":0,
@@ -6569,7 +6569,7 @@
         {
          "columns":36,
          "firstgid":2862,
-         "image":"..\/..\/Edited\/04b demo party congress.png",
+         "image":"/Edited\/04b demo party congress.png",
          "imageheight":629,
          "imagewidth":1160,
          "margin":0,
@@ -6582,7 +6582,7 @@
         {
          "columns":30,
          "firstgid":3546,
-         "image":"..\/..\/Edited\/04c penthouse.png",
+         "image":"\/Edited\/04c penthouse.png",
          "imageheight":691,
          "imagewidth":980,
          "margin":0,
@@ -6595,7 +6595,7 @@
         {
          "columns":152,
          "firstgid":4176,
-         "image":"..\/..\/Edited\/05 croc.png",
+         "image":"\/Edited\/05 croc.png",
          "imageheight":3249,
          "imagewidth":4882,
          "margin":0,
@@ -6608,7 +6608,7 @@
         {
          "columns":36,
          "firstgid":19528,
-         "image":"..\/..\/Edited\/06 choice.png",
+         "image":"\/Edited\/06 choice.png",
          "imageheight":1318,
          "imagewidth":1170,
          "margin":0,
@@ -6621,7 +6621,7 @@
         {
          "columns":28,
          "firstgid":21004,
-         "image":"..\/..\/Edited\/07 enlightenment.png",
+         "image":"\/Edited\/07 enlightenment.png",
          "imageheight":593,
          "imagewidth":900,
          "margin":0,
@@ -6634,7 +6634,7 @@
         {
          "columns":33,
          "firstgid":21508,
-         "image":"..\/..\/Edited\/07 first ladder.png",
+         "image":"\/Edited\/07 first ladder.png",
          "imageheight":1322,
          "imagewidth":1080,
          "margin":0,
@@ -6647,7 +6647,7 @@
         {
          "columns":36,
          "firstgid":22861,
-         "image":"..\/..\/Edited\/08 highway.png",
+         "image":"\/Edited\/08 highway.png",
          "imageheight":1099,
          "imagewidth":1181,
          "margin":0,
@@ -6660,7 +6660,7 @@
         {
          "columns":37,
          "firstgid":24085,
-         "image":"..\/..\/Edited\/xx redroom.png",
+         "image":"\/Edited\/xx redroom.png",
          "imageheight":900,
          "imagewidth":1200,
          "margin":0,
