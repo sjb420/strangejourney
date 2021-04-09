@@ -88,16 +88,16 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/02 ladder.tsx"
+         "source":"Edited\/02 ladder.png"
         }, 
         {
          "firstgid":1,
-         "source":"..\/xx redroom.tsx"
+         "source":"Edited\/xx redroom.png"
         }, 
         {
          "columns":37,
          "firstgid":1,
-         "image":"..\/..\/strangejourney-master\/strangejourney-master\/Maps\/redroom.tmx",
+         "image":"strangejourney\/Edited\/xx redroom.png",
          "imageheight":896,
          "imagewidth":1184,
          "margin":0,
