@@ -120,7 +120,7 @@
          "properties":[
                 {
                  "name":"exitUrl",
-                 "type":"file",
+                 "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/sjb420.github.io\/strangejourney\/blob\/master\/01 bathroom m..json"
                 }],
          "type":"tilelayer",
