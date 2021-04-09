@@ -52,8 +52,8 @@
          "properties":[
                 {
                  "name":"exitUrl",
-                 "type":"file",
-                 "value":"..\/..\/map.json"
+                 "type":"string",
+                 "value":"https://play.workadventu.re/@/bh/fractal_testor/office"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -82,11 +82,11 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/02 ladder.tsx"
+         "source":"Edited\/02 ladder.png"
         }, 
         {
          "firstgid":305,
-         "source":"..\/xx redroom.tsx"
+         "source":"Edited\/xx redroom.png"
         }],
  "tilewidth":32,
  "type":"map",
