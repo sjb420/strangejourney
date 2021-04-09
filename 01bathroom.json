@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/github.com\/sjb420\/strangejourney\/redroom.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/sjb420.github.io\/strangejourney\/redroom.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/github.com\/sjb420\/strangejourney\/02ladder.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/sjb420.github.io\/strangejourney\/02ladder.json"
                 }],
          "type":"tilelayer",
          "visible":true,
