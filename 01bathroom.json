@@ -52,8 +52,8 @@
          "properties":[
                 {
                  "name":"exitUrl",
-                 "type":"file",
-                 "value":"..\/redroom.tmx"
+                 "type":"string",
+                 "value":"https://github.com/sjb420/strangejourney/blob/master/redroom.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -70,8 +70,8 @@
          "properties":[
                 {
                  "name":"exitUrl",
-                 "type":"file",
-                 "value":"..\/02 ladder.tmx"
+                 "type":"string",
+                 "value":"https://github.com/sjb420/strangejourney/blob/master/02ladder.json"
                 }],
          "type":"tilelayer",
          "visible":true,
