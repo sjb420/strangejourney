@@ -60,7 +60,7 @@
                 {
                  "name":"collide",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }],
          "type":"tilelayer",
          "visible":false,
