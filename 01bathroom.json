@@ -85,6 +85,12 @@
          "name":"message",
          "objects":[],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"script",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/sjb420\/strangejourney\/blob\/master\/popupscripts\/bathroom.js"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
