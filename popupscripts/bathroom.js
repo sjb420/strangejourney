@@ -1,0 +1,1 @@
+openPopup(targetObject: message, message: You find yourself in a bathroom. Do you flush, or bathe? Please walk toward you choice, but know that your choices have consequences., buttons: ButtonDescriptor[]): Popup
