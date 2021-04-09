@@ -89,7 +89,7 @@
                 {
                  "name":"script",
                  "type":"string",
-                 "value":"https:\/\/github.com\/sjb420\/strangejourney\/blob\/master\/popupscripts\/bathroom.js"
+                 "value":"https:\/\/github.com\/sjb420\/strangejourney\/popupscripts\/bathroom.js"
                 }],
          "type":"objectgroup",
          "visible":true,
