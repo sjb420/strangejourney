@@ -78,8 +78,19 @@
          "width":26,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":6,
+         "name":"message",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":6,
+ "nextlayerid":7,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
